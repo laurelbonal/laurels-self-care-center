@@ -14,19 +14,19 @@ body {
 }
 
 h1 {
-    padding: 60px;
-    text-align: center;
-    color: white;
-    font-size: 30px;
-    font-family: 'Quicksand', sans-serif;
-  }
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-family: 'Quicksand', sans-serif;
+}
 
-  h2 {
-    text-align: center;
-    color: white;
-    font-size: 17px;
-    font-family: 'Quicksand', sans-serif;
-  }
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 17px;
+  font-family: 'Quicksand', sans-serif;
+}
 
 .all-buttons {
   background-color: white;
@@ -45,7 +45,6 @@ h1 {
   margin-top: auto;
   display: flex;
 }
-
 
 button {
   background-color: #134d71;
@@ -72,11 +71,23 @@ svg {
   background-color: white;
   border-radius: 10px;
   height: 125px;
-  width: 650px;
+  width: 700px;
   margin: auto;
   display: flex;
   border: 75px;
   flex-direction: column;
   align-items: flex-start;
   margin-top: 75px;
+}
+
+.hidden {
+  display: none;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  display: flex;
+  margin: auto;
+  margin-bottom: 50px;
 }
