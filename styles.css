@@ -10,7 +10,8 @@ black: #000000;
 
 body {
     min-height: 100vh;
-    background: linear-gradient(#134d71,#78a7c6,#f7e4bf)
+    background: linear-gradient(#134d71,#78a7c6,#f7e4bf);
+    font-family: 'Quicksand', sans-serif; 
 }
 
 h1 {
